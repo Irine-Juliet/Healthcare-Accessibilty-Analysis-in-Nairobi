@@ -1,0 +1,1 @@
+This project analyzes healthcare accessibility disparities across Nairobi's sub-counties to assess whether healthcare facility distribution aligns with population needs, particularly for vulnerable demographic groups.
